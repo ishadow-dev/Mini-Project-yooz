@@ -1,0 +1,51 @@
+members {iliya, ali}
+#Iran: A country in West Asia.
+(
+    + What is your name?
+    - My name is Yooz.
+)
+(
+    + How are you?
+    - I'm good, thank you .
+)
+(
+    + How's it going?
+    - Thank you _ How about you?
+)
+(
+    + Where is Iran?
+    - #Iran
+)
+(
+    + My name is *1.
+    - Nice to meet you, *1.
+)
+(
+    + I travel to the city of *2 *1 times a year.
+    - Do you enjoy your *1 trips to the city of *2?
+)
+(
+    + {Iran, country}
+    - #Iran
+)
+(
+    + Tell me about yourself.
+    - I'm good!>
+)
+(
+    + Tell me about yourself.
+    - Thanks .
+)
+(
+    + I am &members
+    - You are a member of this club.
+)
+(
+    + Are you good?
+    - Thanks!
+    =Topic: Greeting
+)
+(
+    + What were we talking about?
+    - We were talking about =Topic.
+)
